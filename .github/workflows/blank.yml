@@ -34,7 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-smart-workflow.yml
+smart-workflow/Ai.yml
 
 name: Smart GitHub Setup
 
